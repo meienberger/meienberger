@@ -1,4 +1,3 @@
 Hello 👋
 
-
-![Nicolas Meienberger's github stats](https://github-readme-stats.vercel.app/api?username=meienberger&count_private=true)
+[<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=meienberger">](https://profile.codersrank.io/user/meienberger)
