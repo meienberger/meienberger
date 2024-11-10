@@ -6,10 +6,8 @@ Most of my free time is spent building the free and open-source project [Runtipi
 
 I sometimes also work and experiment on different other projects that you can find here on my GitHub profile.
 
-Visit my website https://meienberger.dev/
-
 **Projects:**
 
 - ⛺ [Runtipi](https://runtipi.io/) - Homeserver management made easy.
+- 👨‍💻 [Portfolio](https://meienberger.dev/) - My personal website
 - 🎹 [Midday](https://midday.meienberger.dev/) - Simple melody & chords generator
-
