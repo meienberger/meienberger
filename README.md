@@ -8,6 +8,6 @@ I sometimes also work and experiment on different other projects that you can fi
 
 **Projects:**
 
-- ⛺ [Runtipi](https://runtipi.io/) - Homeserver management made easy.
-- 👨‍💻 [Portfolio](https://meienberger.dev/) - My personal website
-- 🎹 [Midday](https://midday.meienberger.dev/) - Simple melody & chords generator
+- ⛺ [Runtipi](https://runtipi.io/) — Homeserver management made easy.
+- 👨‍💻 [Portfolio](https://meienberger.dev/) — My personal website
+- 🎹 [Midday](https://midday.meienberger.dev/) — Simple melody & chords generator
