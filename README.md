@@ -13,3 +13,4 @@ I'm open to job opportunities! Feel free to reach out at `jobs@meienberger.dev`
 - ⛺ [Runtipi](https://runtipi.io/) — Homeserver management made easy.
 - 👨‍💻 [Portfolio](https://meienberger.dev/) — My personal website
 - 🎹 [Midday](https://midday.meienberger.dev/) — Simple melody & chords generator
+- ♟️ [Chess opening trainer](https://chess.meienberger.dev/) — Website to train your Chess openings
