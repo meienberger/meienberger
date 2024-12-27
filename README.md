@@ -6,7 +6,7 @@ Most of my free time is spent building the free and open-source project [Runtipi
 
 I sometimes also work and experiment on different other projects that you can find here on my GitHub profile.
 
-I'm open to job opportunities! Feel free to reach out at `jobs@meienberger.dev`
+I'm open to job opportunities! Feel free to reach out at `jobs@thisprops.com`
 
 **Projects:**
 
