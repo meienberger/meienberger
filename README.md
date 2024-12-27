@@ -12,6 +12,6 @@ I'm open to job opportunities! Feel free to reach out at `jobs@thisprops.com`
 
 - ⛺ [Runtipi](https://runtipi.io/) — Homeserver management made easy.
 - 👨‍💻 [Portfolio](https://meienberger.dev/) — My personal website
-- 🎹 [Midday](https://midday.meienberger.dev/) — Simple melody & chords generator
-- ♟️ [Chess opening trainer](https://chess.meienberger.dev/) — Website to train your Chess openings
+- 🎹 [Midday](https://midday.4each.org/) — Simple melody & chords generator
+- ♟️ [Chess opening trainer](https://chess.4each.org/) — Website to train your Chess openings
 - 🕹️ [NextGBA](https://github.com/meienberger/nextgba) - Self-hosted Gameboy in your browser 
